@@ -1,0 +1,501 @@
+Fecha,Producto,Region,Ventas,Precio
+2024-01-01,Rompecabezas,Centro,378,53
+2024-01-02,Muñeca,Oeste,73,20
+2024-01-03,Muñeca,Oeste,132,21
+2024-01-04,Rompecabezas,Centro,263,39
+2024-01-05,Rompecabezas,Norte,486,80
+2024-01-06,Auto de Juguete,Centro,123,40
+2024-01-07,Rompecabezas,Sur,29,87
+2024-01-08,Auto de Juguete,Oeste,25,31
+2024-01-09,Muñeca,Oeste,154,41
+2024-01-10,Pelota,Centro,217,39
+2024-01-11,Pelota,Centro,28,20
+2024-01-12,Pelota,Norte,385,49
+2024-01-13,Pelota,Norte,401,43
+2024-01-14,Muñeca,Sur,175,33
+2024-01-15,Pelota,Centro,47,55
+2024-01-16,Rompecabezas,Centro,190,88
+2024-01-17,Rompecabezas,Centro,358,94
+2024-01-18,Pelota,Oeste,114,43
+2024-01-19,Rompecabezas,Sur,109,79
+2024-01-20,Auto de Juguete,Norte,99,74
+2024-01-21,Muñeca,Oeste,424,96
+2024-01-22,Pelota,Oeste,309,99
+2024-01-23,Pelota,Oeste,453,43
+2024-01-24,Muñeca,Oeste,341,96
+2024-01-25,Rompecabezas,Sur,410,43
+2024-01-26,Muñeca,Centro,88,73
+2024-01-27,Muñeca,Norte,82,45
+2024-01-28,Rompecabezas,Norte,432,85
+2024-01-29,Muñeca,Oeste,435,99
+2024-01-30,Rompecabezas,Oeste,185,57
+2024-01-31,Rompecabezas,Sur,405,84
+2024-02-01,Muñeca,Oeste,105,94
+2024-02-02,Auto de Juguete,Norte,354,70
+2024-02-03,Rompecabezas,Norte,112,54
+2024-02-04,Muñeca,Centro,411,62
+2024-02-05,Rompecabezas,Centro,472,48
+2024-02-06,Auto de Juguete,Norte,233,56
+2024-02-07,Auto de Juguete,Norte,15,77
+2024-02-08,Pelota,Sur,131,73
+2024-02-09,Rompecabezas,Sur,245,58
+2024-02-10,Rompecabezas,Norte,436,61
+2024-02-11,Muñeca,Oeste,125,47
+2024-02-12,Rompecabezas,Centro,172,48
+2024-02-13,Pelota,Norte,235,62
+2024-02-14,Auto de Juguete,Oeste,239,22
+2024-02-15,Auto de Juguete,Norte,191,29
+2024-02-16,Pelota,Centro,258,78
+2024-02-17,Rompecabezas,Centro,327,33
+2024-02-18,Rompecabezas,Sur,462,95
+2024-02-19,Pelota,Sur,219,66
+2024-02-20,Muñeca,Sur,153,61
+2024-02-21,Auto de Juguete,Sur,401,51
+2024-02-22,Pelota,Centro,354,51
+2024-02-23,Pelota,Oeste,105,61
+2024-02-24,Rompecabezas,Oeste,391,51
+2024-02-25,Auto de Juguete,Oeste,355,45
+2024-02-26,Rompecabezas,Norte,253,20
+2024-02-27,Pelota,Sur,95,75
+2024-02-28,Muñeca,Sur,424,21
+2024-02-29,Auto de Juguete,Centro,403,49
+2024-03-01,Pelota,Centro,193,90
+2024-03-02,Pelota,Norte,130,71
+2024-03-03,Muñeca,Norte,341,28
+2024-03-04,Pelota,Oeste,101,41
+2024-03-05,Pelota,Centro,79,53
+2024-03-06,Auto de Juguete,Sur,413,68
+2024-03-07,Auto de Juguete,Oeste,142,20
+2024-03-08,Auto de Juguete,Sur,288,92
+2024-03-09,Rompecabezas,Oeste,146,72
+2024-03-10,Muñeca,Sur,323,59
+2024-03-11,Auto de Juguete,Norte,196,64
+2024-03-12,Rompecabezas,Oeste,230,87
+2024-03-13,Rompecabezas,Sur,473,28
+2024-03-14,Muñeca,Sur,447,41
+2024-03-15,Muñeca,Centro,55,37
+2024-03-16,Pelota,Oeste,287,95
+2024-03-17,Rompecabezas,Sur,201,62
+2024-03-18,Auto de Juguete,Centro,17,58
+2024-03-19,Muñeca,Sur,388,92
+2024-03-20,Rompecabezas,Oeste,285,25
+2024-03-21,Auto de Juguete,Norte,188,67
+2024-03-22,Rompecabezas,Oeste,343,26
+2024-03-23,Muñeca,Oeste,48,99
+2024-03-24,Pelota,Sur,302,88
+2024-03-25,Rompecabezas,Sur,187,35
+2024-03-26,Auto de Juguete,Oeste,171,20
+2024-03-27,Muñeca,Centro,340,56
+2024-03-28,Pelota,Centro,383,56
+2024-03-29,Auto de Juguete,Centro,113,83
+2024-03-30,Auto de Juguete,Sur,170,81
+2024-03-31,Auto de Juguete,Sur,296,91
+2024-04-01,Rompecabezas,Oeste,132,80
+2024-04-02,Muñeca,Norte,63,52
+2024-04-03,Auto de Juguete,Sur,437,85
+2024-04-04,Rompecabezas,Oeste,43,49
+2024-04-05,Muñeca,Oeste,251,39
+2024-04-06,Muñeca,Norte,464,79
+2024-04-07,Rompecabezas,Centro,387,93
+2024-04-08,Rompecabezas,Oeste,122,43
+2024-04-09,Auto de Juguete,Oeste,327,23
+2024-04-10,Muñeca,Oeste,32,56
+2024-04-11,Pelota,Centro,55,23
+2024-04-12,Rompecabezas,Centro,321,96
+2024-04-13,Muñeca,Norte,144,96
+2024-04-14,Muñeca,Sur,127,37
+2024-04-15,Auto de Juguete,Centro,482,85
+2024-04-16,Pelota,Sur,198,67
+2024-04-17,Auto de Juguete,Sur,140,52
+2024-04-18,Pelota,Centro,431,77
+2024-04-19,Pelota,Oeste,221,92
+2024-04-20,Rompecabezas,Norte,427,47
+2024-04-21,Muñeca,Sur,122,54
+2024-04-22,Muñeca,Oeste,53,29
+2024-04-23,Muñeca,Centro,137,84
+2024-04-24,Pelota,Sur,373,61
+2024-04-25,Muñeca,Sur,167,28
+2024-04-26,Rompecabezas,Sur,282,79
+2024-04-27,Pelota,Oeste,324,34
+2024-04-28,Pelota,Oeste,403,76
+2024-04-29,Pelota,Oeste,364,88
+2024-04-30,Pelota,Sur,349,41
+2024-05-01,Rompecabezas,Sur,411,83
+2024-05-02,Muñeca,Norte,54,60
+2024-05-03,Rompecabezas,Norte,117,90
+2024-05-04,Muñeca,Oeste,228,75
+2024-05-05,Rompecabezas,Oeste,452,42
+2024-05-06,Auto de Juguete,Centro,327,44
+2024-05-07,Auto de Juguete,Oeste,324,25
+2024-05-08,Auto de Juguete,Norte,186,53
+2024-05-09,Auto de Juguete,Norte,237,82
+2024-05-10,Pelota,Norte,200,28
+2024-05-11,Pelota,Sur,480,79
+2024-05-12,Rompecabezas,Sur,169,68
+2024-05-13,Rompecabezas,Oeste,403,70
+2024-05-14,Auto de Juguete,Centro,276,79
+2024-05-15,Muñeca,Centro,367,89
+2024-05-16,Auto de Juguete,Centro,335,56
+2024-05-17,Rompecabezas,Sur,388,50
+2024-05-18,Auto de Juguete,Norte,498,60
+2024-05-19,Rompecabezas,Norte,199,81
+2024-05-20,Auto de Juguete,Sur,184,77
+2024-05-21,Muñeca,Centro,299,33
+2024-05-22,Auto de Juguete,Centro,493,55
+2024-05-23,Muñeca,Oeste,366,55
+2024-05-24,Muñeca,Oeste,154,98
+2024-05-25,Rompecabezas,Centro,241,27
+2024-05-26,Muñeca,Sur,369,45
+2024-05-27,Pelota,Centro,447,55
+2024-05-28,Pelota,Oeste,213,67
+2024-05-29,Pelota,Centro,222,47
+2024-05-30,Rompecabezas,Sur,49,87
+2024-05-31,Pelota,Norte,284,81
+2024-06-01,Rompecabezas,Sur,332,99
+2024-06-02,Rompecabezas,Sur,91,95
+2024-06-03,Pelota,Oeste,190,99
+2024-06-04,Muñeca,Sur,329,70
+2024-06-05,Auto de Juguete,Sur,92,61
+2024-06-06,Rompecabezas,Oeste,312,48
+2024-06-07,Pelota,Oeste,271,29
+2024-06-08,Rompecabezas,Norte,281,58
+2024-06-09,Muñeca,Centro,209,20
+2024-06-10,Muñeca,Sur,249,58
+2024-06-11,Pelota,Oeste,411,40
+2024-06-12,Rompecabezas,Norte,189,84
+2024-06-13,Auto de Juguete,Centro,441,34
+2024-06-14,Auto de Juguete,Oeste,180,23
+2024-06-15,Rompecabezas,Centro,304,79
+2024-06-16,Rompecabezas,Centro,186,80
+2024-06-17,Rompecabezas,Sur,378,39
+2024-06-18,Pelota,Sur,405,29
+2024-06-19,Muñeca,Oeste,246,53
+2024-06-20,Auto de Juguete,Centro,147,67
+2024-06-21,Pelota,Oeste,336,52
+2024-06-22,Rompecabezas,Oeste,375,80
+2024-06-23,Rompecabezas,Centro,320,29
+2024-06-24,Muñeca,Oeste,138,73
+2024-06-25,Rompecabezas,Centro,58,84
+2024-06-26,Pelota,Centro,173,96
+2024-06-27,Pelota,Centro,286,20
+2024-06-28,Muñeca,Centro,302,24
+2024-06-29,Pelota,Norte,125,99
+2024-06-30,Auto de Juguete,Centro,33,34
+2024-07-01,Pelota,Sur,320,47
+2024-07-02,Pelota,Sur,34,42
+2024-07-03,Pelota,Sur,400,36
+2024-07-04,Auto de Juguete,Centro,136,32
+2024-07-05,Rompecabezas,Sur,243,33
+2024-07-06,Pelota,Norte,218,30
+2024-07-07,Muñeca,Oeste,102,47
+2024-07-08,Auto de Juguete,Centro,103,61
+2024-07-09,Muñeca,Sur,336,80
+2024-07-10,Pelota,Norte,234,83
+2024-07-11,Muñeca,Oeste,464,50
+2024-07-12,Pelota,Norte,387,92
+2024-07-13,Auto de Juguete,Sur,289,29
+2024-07-14,Muñeca,Norte,20,27
+2024-07-15,Muñeca,Oeste,338,40
+2024-07-16,Pelota,Sur,21,96
+2024-07-17,Pelota,Oeste,44,78
+2024-07-18,Rompecabezas,Norte,456,69
+2024-07-19,Pelota,Centro,461,88
+2024-07-20,Pelota,Centro,237,89
+2024-07-21,Rompecabezas,Centro,229,49
+2024-07-22,Pelota,Centro,450,36
+2024-07-23,Pelota,Oeste,150,94
+2024-07-24,Rompecabezas,Centro,32,39
+2024-07-25,Auto de Juguete,Oeste,92,67
+2024-07-26,Auto de Juguete,Sur,499,92
+2024-07-27,Pelota,Centro,238,21
+2024-07-28,Pelota,Oeste,432,56
+2024-07-29,Rompecabezas,Centro,353,20
+2024-07-30,Rompecabezas,Centro,89,23
+2024-07-31,Auto de Juguete,Centro,362,73
+2024-08-01,Muñeca,Oeste,405,44
+2024-08-02,Pelota,Norte,299,22
+2024-08-03,Muñeca,Centro,464,28
+2024-08-04,Muñeca,Centro,340,95
+2024-08-05,Rompecabezas,Sur,168,93
+2024-08-06,Pelota,Norte,486,53
+2024-08-07,Pelota,Oeste,137,62
+2024-08-08,Rompecabezas,Sur,199,93
+2024-08-09,Muñeca,Centro,406,41
+2024-08-10,Rompecabezas,Sur,40,89
+2024-08-11,Auto de Juguete,Sur,395,21
+2024-08-12,Pelota,Centro,368,85
+2024-08-13,Auto de Juguete,Norte,24,51
+2024-08-14,Rompecabezas,Norte,322,35
+2024-08-15,Pelota,Sur,84,95
+2024-08-16,Auto de Juguete,Centro,43,20
+2024-08-17,Auto de Juguete,Oeste,368,91
+2024-08-18,Muñeca,Sur,205,67
+2024-08-19,Pelota,Oeste,340,69
+2024-08-20,Auto de Juguete,Sur,38,32
+2024-08-21,Auto de Juguete,Sur,203,34
+2024-08-22,Muñeca,Centro,25,72
+2024-08-23,Auto de Juguete,Centro,432,63
+2024-08-24,Auto de Juguete,Oeste,86,27
+2024-08-25,Auto de Juguete,Oeste,302,93
+2024-08-26,Muñeca,Norte,90,65
+2024-08-27,Auto de Juguete,Centro,414,88
+2024-08-28,Auto de Juguete,Sur,437,38
+2024-08-29,Pelota,Sur,133,57
+2024-08-30,Pelota,Norte,28,30
+2024-08-31,Muñeca,Centro,464,62
+2024-09-01,Rompecabezas,Sur,111,39
+2024-09-02,Pelota,Norte,401,39
+2024-09-03,Muñeca,Norte,86,40
+2024-09-04,Auto de Juguete,Sur,238,76
+2024-09-05,Auto de Juguete,Sur,459,69
+2024-09-06,Muñeca,Oeste,306,93
+2024-09-07,Auto de Juguete,Centro,212,45
+2024-09-08,Auto de Juguete,Oeste,481,49
+2024-09-09,Rompecabezas,Norte,463,92
+2024-09-10,Auto de Juguete,Sur,70,50
+2024-09-11,Pelota,Oeste,35,61
+2024-09-12,Auto de Juguete,Norte,80,87
+2024-09-13,Muñeca,Centro,112,80
+2024-09-14,Rompecabezas,Sur,476,80
+2024-09-15,Auto de Juguete,Oeste,335,89
+2024-09-16,Muñeca,Centro,372,97
+2024-09-17,Pelota,Oeste,166,87
+2024-09-18,Auto de Juguete,Norte,372,36
+2024-09-19,Rompecabezas,Centro,368,38
+2024-09-20,Auto de Juguete,Oeste,203,70
+2024-09-21,Muñeca,Centro,284,89
+2024-09-22,Rompecabezas,Norte,333,82
+2024-09-23,Auto de Juguete,Centro,195,94
+2024-09-24,Pelota,Oeste,335,99
+2024-09-25,Rompecabezas,Norte,122,49
+2024-09-26,Pelota,Sur,322,44
+2024-09-27,Muñeca,Oeste,174,94
+2024-09-28,Auto de Juguete,Oeste,70,90
+2024-09-29,Pelota,Norte,101,45
+2024-09-30,Muñeca,Norte,295,75
+2024-10-01,Auto de Juguete,Sur,464,41
+2024-10-02,Muñeca,Oeste,466,38
+2024-10-03,Pelota,Norte,162,50
+2024-10-04,Muñeca,Sur,234,45
+2024-10-05,Rompecabezas,Sur,136,61
+2024-10-06,Auto de Juguete,Norte,202,60
+2024-10-07,Muñeca,Oeste,124,42
+2024-10-08,Pelota,Centro,271,66
+2024-10-09,Auto de Juguete,Centro,27,32
+2024-10-10,Rompecabezas,Sur,19,85
+2024-10-11,Auto de Juguete,Centro,101,85
+2024-10-12,Rompecabezas,Centro,148,35
+2024-10-13,Auto de Juguete,Norte,490,92
+2024-10-14,Muñeca,Sur,458,47
+2024-10-15,Muñeca,Oeste,342,96
+2024-10-16,Pelota,Sur,366,54
+2024-10-17,Rompecabezas,Norte,349,60
+2024-10-18,Pelota,Centro,458,96
+2024-10-19,Muñeca,Oeste,61,50
+2024-10-20,Rompecabezas,Sur,204,51
+2024-10-21,Pelota,Centro,475,73
+2024-10-22,Pelota,Sur,498,91
+2024-10-23,Pelota,Oeste,215,78
+2024-10-24,Pelota,Sur,296,60
+2024-10-25,Pelota,Sur,484,85
+2024-10-26,Rompecabezas,Sur,410,73
+2024-10-27,Pelota,Centro,448,59
+2024-10-28,Rompecabezas,Oeste,375,47
+2024-10-29,Pelota,Oeste,102,56
+2024-10-30,Muñeca,Centro,429,84
+2024-10-31,Muñeca,Centro,494,93
+2024-11-01,Pelota,Centro,419,74
+2024-11-02,Auto de Juguete,Norte,318,23
+2024-11-03,Muñeca,Sur,154,29
+2024-11-04,Rompecabezas,Sur,95,66
+2024-11-05,Pelota,Oeste,162,94
+2024-11-06,Rompecabezas,Sur,11,33
+2024-11-07,Auto de Juguete,Norte,351,57
+2024-11-08,Pelota,Centro,398,31
+2024-11-09,Muñeca,Oeste,269,64
+2024-11-10,Rompecabezas,Oeste,173,36
+2024-11-11,Muñeca,Sur,15,99
+2024-11-12,Muñeca,Oeste,158,54
+2024-11-13,Pelota,Centro,214,85
+2024-11-14,Rompecabezas,Oeste,127,94
+2024-11-15,Auto de Juguete,Centro,494,60
+2024-11-16,Muñeca,Norte,98,86
+2024-11-17,Pelota,Norte,163,48
+2024-11-18,Pelota,Centro,448,37
+2024-11-19,Auto de Juguete,Sur,176,39
+2024-11-20,Pelota,Oeste,477,33
+2024-11-21,Muñeca,Sur,170,53
+2024-11-22,Pelota,Oeste,279,68
+2024-11-23,Rompecabezas,Norte,65,73
+2024-11-24,Rompecabezas,Norte,237,50
+2024-11-25,Muñeca,Norte,346,77
+2024-11-26,Rompecabezas,Oeste,158,61
+2024-11-27,Auto de Juguete,Norte,55,77
+2024-11-28,Pelota,Norte,153,49
+2024-11-29,Muñeca,Norte,247,44
+2024-11-30,Auto de Juguete,Norte,281,82
+2024-12-01,Pelota,Sur,129,38
+2024-12-02,Auto de Juguete,Norte,349,91
+2024-12-03,Muñeca,Norte,422,27
+2024-12-04,Muñeca,Sur,229,22
+2024-12-05,Auto de Juguete,Sur,17,86
+2024-12-06,Pelota,Oeste,353,36
+2024-12-07,Rompecabezas,Centro,396,33
+2024-12-08,Rompecabezas,Norte,482,28
+2024-12-09,Auto de Juguete,Norte,284,81
+2024-12-10,Muñeca,Norte,362,40
+2024-12-11,Pelota,Oeste,75,95
+2024-12-12,Pelota,Norte,88,56
+2024-12-13,Muñeca,Centro,95,30
+2024-12-14,Rompecabezas,Sur,133,39
+2024-12-15,Pelota,Oeste,211,54
+2024-12-16,Auto de Juguete,Sur,475,72
+2024-12-17,Rompecabezas,Norte,159,66
+2024-12-18,Auto de Juguete,Norte,55,94
+2024-12-19,Rompecabezas,Norte,122,71
+2024-12-20,Muñeca,Centro,100,27
+2024-12-21,Auto de Juguete,Centro,150,23
+2024-12-22,Auto de Juguete,Oeste,298,46
+2024-12-23,Muñeca,Sur,398,63
+2024-12-24,Auto de Juguete,Norte,227,59
+2024-12-25,Rompecabezas,Norte,86,66
+2024-12-26,Pelota,Norte,420,63
+2024-12-27,Pelota,Norte,386,67
+2024-12-28,Muñeca,Centro,393,71
+2024-12-29,Rompecabezas,Sur,343,87
+2024-12-30,Auto de Juguete,Sur,161,30
+2024-12-31,Auto de Juguete,Oeste,332,96
+2025-01-01,Pelota,Centro,248,92
+2025-01-02,Auto de Juguete,Norte,124,23
+2025-01-03,Pelota,Sur,328,95
+2025-01-04,Muñeca,Sur,378,92
+2025-01-05,Auto de Juguete,Centro,103,96
+2025-01-06,Rompecabezas,Oeste,492,67
+2025-01-07,Auto de Juguete,Oeste,57,45
+2025-01-08,Pelota,Norte,200,96
+2025-01-09,Muñeca,Oeste,471,58
+2025-01-10,Pelota,Sur,21,77
+2025-01-11,Auto de Juguete,Oeste,165,38
+2025-01-12,Pelota,Norte,181,96
+2025-01-13,Pelota,Sur,486,96
+2025-01-14,Muñeca,Oeste,436,77
+2025-01-15,Rompecabezas,Oeste,410,47
+2025-01-16,Auto de Juguete,Centro,305,85
+2025-01-17,Muñeca,Norte,186,29
+2025-01-18,Rompecabezas,Oeste,350,96
+2025-01-19,Pelota,Centro,66,77
+2025-01-20,Rompecabezas,Sur,352,92
+2025-01-21,Pelota,Centro,349,33
+2025-01-22,Pelota,Centro,457,34
+2025-01-23,Muñeca,Oeste,212,52
+2025-01-24,Pelota,Oeste,194,36
+2025-01-25,Muñeca,Oeste,130,43
+2025-01-26,Rompecabezas,Centro,235,49
+2025-01-27,Rompecabezas,Sur,211,81
+2025-01-28,Pelota,Norte,339,32
+2025-01-29,Muñeca,Centro,372,81
+2025-01-30,Pelota,Oeste,389,66
+2025-01-31,Muñeca,Norte,463,35
+2025-02-01,Muñeca,Sur,365,85
+2025-02-02,Muñeca,Norte,225,62
+2025-02-03,Rompecabezas,Oeste,469,27
+2025-02-04,Muñeca,Centro,52,22
+2025-02-05,Rompecabezas,Centro,384,31
+2025-02-06,Muñeca,Oeste,32,35
+2025-02-07,Rompecabezas,Centro,164,97
+2025-02-08,Auto de Juguete,Oeste,195,99
+2025-02-09,Rompecabezas,Centro,258,78
+2025-02-10,Rompecabezas,Centro,246,68
+2025-02-11,Pelota,Centro,302,82
+2025-02-12,Muñeca,Sur,143,81
+2025-02-13,Auto de Juguete,Sur,330,68
+2025-02-14,Pelota,Oeste,399,70
+2025-02-15,Muñeca,Sur,443,52
+2025-02-16,Auto de Juguete,Oeste,31,49
+2025-02-17,Auto de Juguete,Norte,370,78
+2025-02-18,Auto de Juguete,Norte,97,95
+2025-02-19,Muñeca,Sur,162,34
+2025-02-20,Auto de Juguete,Norte,134,42
+2025-02-21,Auto de Juguete,Norte,88,97
+2025-02-22,Pelota,Centro,355,64
+2025-02-23,Rompecabezas,Centro,465,81
+2025-02-24,Muñeca,Oeste,60,98
+2025-02-25,Rompecabezas,Norte,225,90
+2025-02-26,Pelota,Oeste,185,34
+2025-02-27,Rompecabezas,Oeste,367,65
+2025-02-28,Auto de Juguete,Norte,262,83
+2025-03-01,Auto de Juguete,Sur,463,65
+2025-03-02,Muñeca,Norte,255,75
+2025-03-03,Muñeca,Centro,236,63
+2025-03-04,Muñeca,Norte,115,94
+2025-03-05,Pelota,Sur,202,48
+2025-03-06,Muñeca,Oeste,325,81
+2025-03-07,Pelota,Oeste,311,71
+2025-03-08,Auto de Juguete,Centro,45,73
+2025-03-09,Rompecabezas,Centro,451,76
+2025-03-10,Auto de Juguete,Centro,213,85
+2025-03-11,Auto de Juguete,Oeste,431,41
+2025-03-12,Auto de Juguete,Centro,276,39
+2025-03-13,Muñeca,Norte,277,52
+2025-03-14,Muñeca,Oeste,179,91
+2025-03-15,Muñeca,Sur,48,44
+2025-03-16,Rompecabezas,Oeste,464,65
+2025-03-17,Muñeca,Norte,148,92
+2025-03-18,Pelota,Norte,301,76
+2025-03-19,Auto de Juguete,Centro,61,24
+2025-03-20,Rompecabezas,Oeste,296,74
+2025-03-21,Rompecabezas,Oeste,298,80
+2025-03-22,Rompecabezas,Oeste,150,27
+2025-03-23,Rompecabezas,Sur,155,35
+2025-03-24,Rompecabezas,Centro,434,67
+2025-03-25,Pelota,Norte,323,80
+2025-03-26,Auto de Juguete,Norte,193,34
+2025-03-27,Rompecabezas,Centro,161,84
+2025-03-28,Auto de Juguete,Norte,210,41
+2025-03-29,Muñeca,Norte,137,22
+2025-03-30,Rompecabezas,Centro,296,73
+2025-03-31,Rompecabezas,Norte,320,33
+2025-04-01,Auto de Juguete,Oeste,262,55
+2025-04-02,Rompecabezas,Sur,498,86
+2025-04-03,Rompecabezas,Centro,275,29
+2025-04-04,Rompecabezas,Sur,197,68
+2025-04-05,Pelota,Norte,395,84
+2025-04-06,Pelota,Norte,239,76
+2025-04-07,Rompecabezas,Oeste,280,46
+2025-04-08,Pelota,Centro,268,94
+2025-04-09,Muñeca,Norte,308,24
+2025-04-10,Rompecabezas,Centro,424,90
+2025-04-11,Muñeca,Centro,207,76
+2025-04-12,Auto de Juguete,Centro,332,34
+2025-04-13,Muñeca,Centro,65,95
+2025-04-14,Auto de Juguete,Centro,328,49
+2025-04-15,Rompecabezas,Sur,212,39
+2025-04-16,Auto de Juguete,Oeste,280,56
+2025-04-17,Auto de Juguete,Centro,118,22
+2025-04-18,Muñeca,Sur,125,92
+2025-04-19,Muñeca,Norte,101,60
+2025-04-20,Muñeca,Centro,147,58
+2025-04-21,Rompecabezas,Norte,431,45
+2025-04-22,Rompecabezas,Centro,312,21
+2025-04-23,Muñeca,Sur,66,42
+2025-04-24,Rompecabezas,Sur,59,42
+2025-04-25,Rompecabezas,Sur,80,35
+2025-04-26,Auto de Juguete,Oeste,408,28
+2025-04-27,Auto de Juguete,Norte,411,32
+2025-04-28,Muñeca,Oeste,91,47
+2025-04-29,Rompecabezas,Centro,381,46
+2025-04-30,Auto de Juguete,Norte,114,70
+2025-05-01,Pelota,Sur,97,83
+2025-05-02,Rompecabezas,Norte,11,71
+2025-05-03,Pelota,Sur,369,57
+2025-05-04,Muñeca,Oeste,93,84
+2025-05-05,Rompecabezas,Oeste,491,37
+2025-05-06,Muñeca,Sur,52,82
+2025-05-07,Muñeca,Sur,163,70
+2025-05-08,Muñeca,Centro,336,28
+2025-05-09,Muñeca,Oeste,431,32
+2025-05-10,Muñeca,Oeste,103,59
+2025-05-11,Rompecabezas,Centro,307,74
+2025-05-12,Pelota,Oeste,142,98
+2025-05-13,Rompecabezas,Sur,404,62
+2025-05-14,Rompecabezas,Norte,74,63
