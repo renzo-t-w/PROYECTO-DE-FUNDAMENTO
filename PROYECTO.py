@@ -1,14 +1,20 @@
 import csv
+
+# Función similar al archivo de cabecera de chrono, pero este solo importará una
+# clase en específico la cual es nombrado igual que el módulo (datetime).
 from datetime import datetime
 
 class Evento:
     """Clase que representa un evento con detalles como nombre, fecha, hora y categoría."""
 
-    def __init__(self, nombre, fecha, hora):  # constructor con parámetros
-        self.nombre = nombre  # atributos
+    # Constructor (Un tipo de método de función especial) __init__ para inicializar y dar la definición de
+    # sus parámetros automáticamente, gracias a la referencia o mediador de acceso "self".
+    def __init__(self, nombre, fecha, hora):
+        self.nombre = nombre  #Sus respectivos atributos
         self.fecha = fecha
         self.hora = hora
 
+    # Constructor __str__ que personaliza cómo representar una cadena.
     def __str__(self):  # cadena de texto
         return (f"{self.nombre} - {self.fecha} {self.hora}")
 
